@@ -20,14 +20,14 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Amin Mesmoudi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : &name "Amin Mesmoudi"
-description              : &description "Associate Professor | Université de Poitiers, LIAS Laboratory"
+name                     : "Amin Mesmoudi"
+description              : "Associate Professor | Université de Poitiers, LIAS Laboratory"
 url                      : "https://amesmoudi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amesmoudi/amesmoudi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -114,18 +114,22 @@ analytics:
 # Site Author
 author:
   name             : "Amin Mesmoudi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" 
   bio              : "Associate Professor | Université de Poitiers, LIAS Laboratory"
   location         : "Poitiers, France"
   email            :
   twitter          : "amin_mesmoudi"
+  googlescholar    : "https://scholar.google.com/citations?user=1wXOTs8AAAAJ&hl=fr"
+  researchgate     : "https://www.researchgate.net/profile/Amin-Mesmoudi"
+  linkedin         : "amin-mesmoudi-b60605137/"
+  orcid            : "http://orcid.org/0000-0003-1307-591X"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://amesmoudi.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -228,7 +232,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -264,6 +268,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -313,14 +318,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
