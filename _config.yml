@@ -89,8 +89,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+X:
+  username               : &X
 facebook:
   username               :
   app_id                 :
@@ -118,7 +118,7 @@ author:
   bio              : "Associate Professor | Université de Poitiers, LIAS Laboratory"
   location         : "Poitiers, France"
   email            :
-  twitter          : "amin_mesmoudi"
+  X          : "amin_mesmoudi"
   googlescholar    : "https://scholar.google.com/citations?user=1wXOTs8AAAAJ&hl=fr"
   researchgate     : "https://www.researchgate.net/profile/Amin-Mesmoudi"
   linkedin         : "amin-mesmoudi-b60605137/"
