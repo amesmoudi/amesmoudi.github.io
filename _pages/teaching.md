@@ -1,14 +1,14 @@
 ---
 permalink: /teaching
-title: "Amin Mesmoudi - Teaching Activities"
-excerpt: "Teaching"
+title: "Amin Mesmoudi - Teaching and Pedagogical Activitie"
+excerpt: "Teaching and Pedagogical Activities"
 author_profile: true
 redirect_from: 
   - /teaching/
   - /teaching.html
 ---
 
-## Teaching and Pedagogical Responsibilities
+## Teaching and Pedagogical Activities
 
 My teaching activities focus on data management, particularly the exploitation of Big Data. Most of my teaching duties are carried out within the [Data Science Department](https://iutp.univ-poitiers.fr/sd) of the [IUT of Poitiers-Niort-Châtellerault](https://iutp.univ-poitiers.fr) ([Niort campus](https://niort.univ-poitiers.fr/)). I also contribute to the [Master's program in Computer Science](https://formations.univ-poitiers.fr/fr/index/master-XB/master-XB/master-informatique-JAJEEY0P.html) of the [Faculty of Fundamental and Applied Sciences (SFA)](https://sfa.univ-poitiers.fr/) at the [University of Poitiers](https://www.univ-poitiers.fr/), where I teach a course on Big Data. This course has been extended to the engineering students of [ISAE-ENSMA](https://www.ensma.fr/).
 {: .page-content}
