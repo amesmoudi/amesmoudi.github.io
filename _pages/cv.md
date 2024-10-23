@@ -41,12 +41,12 @@ redirect_from:
 
   * **2012 – 2015**: PhD in Computer Science from [Claude Bernard University - Lyon 1](https://www.univ-lyon1.fr/).
     * Thesis: "Parallel and Declarative Query Processing on Large-Scale Astronomical Data."
-    * Supervised by Prof. Mohand-Saïd Hacid.
-    * Jury: Prof. Mokrane Bouzeghoub, Prof. Emmanuel Gangler, Prof. Jérôme Gensel, Prof. Farouk Toumani  and Prof. Patrick Valduriez
+    * Supervised by [Prof. Mohand-Said Hacid](https://perso.univ-lyon1.fr/mohand-said.hacid/).
+    * Jury: [Prof. Mokrane Bouzeghoub](https://pages.david.uvsq.fr/mbouzeghoub/), Prof. Emmanuel Gangler, [Prof. Jérôme Gensel](https://lig-membres.imag.fr/gensel/), [Prof. Farouk Toumani](https://perso.limos.fr/~fatouman/) and [Prof. Patrick Valduriez](https://www.inria.fr/fr/patrick-valduriez)
 
   * **2009 – 2010**: Master's Degree in Computer Science (Research) from [INSA Lyon](https://www.insa-lyon.fr/).
     * Specialization: Information Technologies and Web (TIWe).
-    * Internship: "Combining configuration and query rewriting techniques for Web service composition ," supervised by Prof. Mohand-Saïd Hacid and Prof. Michaël Mrissa.
+    * Internship: "Combining configuration and query rewriting techniques for Web service composition ," supervised by [Prof. Mohand-Said Hacid](https://perso.univ-lyon1.fr/mohand-said.hacid/) and [Prof. Michaël Mrissa](https://osebje.famnit.upr.si/~michael.mrissa/doku.php?id=start).
 
 
 <!-- -->
