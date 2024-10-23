@@ -230,7 +230,7 @@ Professional activities
 :  Study and analyze the transformations of the traditional enterprise application ecosystem towards Big Data and Cloud solutions. I joined the project in 2018. I supervised a Master's internship on query optimization in parallel environments.
 <br/>**Consortium**: [AYALINE](https://www.ayaline.com), [L3i](https://l3i.univ-larochelle.fr/), [LIAS](https://www.lias-lab.fr/)
 
-[**PetaSky Project**](http://com.isima.fr/Petasky) (Since July 2012) - CNRS Project  
+[**PetaSky Project**](http://com.isima.fr/Petasky) (2012-2016) - CNRS Project  
 :   A large-scale astronomical data management project. I completed both my PhD and postdoctoral research as part of this project.  
 <br/>**Consortium**: [LIMOS](https://limos.isima.fr/), [LIRIS](https://liris.cnrs.fr/), LPC, APC, LAL, LaBRI, LIF, LIRMM, LAM, and [CC-IN2P3/CNRS](https://cc.in2p3.fr/).
 
